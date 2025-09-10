@@ -1,8 +1,8 @@
 CC ?= gcc
 CXX ?= g++
 CPP ?= g++
-APP_NAME = stream_char_test
-OBJFILES = stream_char_test.o
+APP_NAME = binw
+OBJFILES = binw.o
 LIB_DIRS = .
 
 all: $(APP_NAME)
