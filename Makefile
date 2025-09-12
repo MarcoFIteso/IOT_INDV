@@ -1,8 +1,8 @@
 CC ?= gcc
 CXX ?= g++
 CPP ?= g++
-APP_NAME = binw
-OBJFILES = binw.o
+APP_NAME = parent
+OBJFILES = parent.o
 LIB_DIRS = .
 
 all: $(APP_NAME)
